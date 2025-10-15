@@ -4,4 +4,4 @@ A simple static webpage as a gift for my LOML .
 Check this out with 
 
 <br>
-Link: https://
+Link: https:// https://junnjunnn.github.io/ForLovie/
